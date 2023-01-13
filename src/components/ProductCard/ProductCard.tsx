@@ -1,8 +1,8 @@
 import { useState } from "react";
-import productImg from "./assets/image.png";
-import productGif from "./assets/product-gif.gif";
-import rotateIcon from "./assets/360 icon.svg";
-import closeIcon from "./assets/close icon.svg";
+import productImg from "../../assets/image.png";
+import productGif from "../../assets/product-gif.gif";
+import rotateIcon from "../../assets/360 icon.svg";
+import closeIcon from "../../assets/close icon.svg";
 import "./ProductCard.sass";
 
 function ProductCard() {
